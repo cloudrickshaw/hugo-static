@@ -1,0 +1,4 @@
+baseURL = 'https://cloudrickshaw.com/'
+languageCode = 'en-us'
+title = 'Cloudrickshaw'
+theme = 'ananke'
