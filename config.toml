@@ -1,4 +1,4 @@
-baseURL = 'https://cloudrickshaw.com/'
+baseURL = 'https://cloudrickshaw.github.io/hugo-static/'
 languageCode = 'en-us'
 title = 'Cloudrickshaw'
 theme = 'ananke'
