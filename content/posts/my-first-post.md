@@ -9,3 +9,7 @@ draft: false
 **Hugo** is *awesome*.
 
 Visit the [Hugo](https://gohugo.io) website!
+
+Using twitter short code
+
+{{< tweet user="memenetes" id="1628802088422588417" >}}
